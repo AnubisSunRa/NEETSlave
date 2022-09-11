@@ -1,0 +1,116 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "d82b052c-31cd-11ed-967f-f993fc99239b",
+                    "deck_config_uuid": "d82b2764-31cd-11ed-967f-f993fc99239b",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "General Terminology",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "d82b26a6-31cd-11ed-967f-f993fc99239b",
+                    "deck_config_uuid": "d82b2764-31cd-11ed-967f-f993fc99239b",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Upper Limb",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "d82ae150-31cd-11ed-967f-f993fc99239b",
+            "deck_config_uuid": "d82b2764-31cd-11ed-967f-f993fc99239b",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Anatomy",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "d82a6f4a-31cd-11ed-967f-f993fc99239b",
+    "deck_config_uuid": "d82b2764-31cd-11ed-967f-f993fc99239b",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d82b2764-31cd-11ed-967f-f993fc99239b",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2000,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 99,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "reminder": {
+                "enabled": false,
+                "time": [
+                    0,
+                    0
+                ]
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 45,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "timer": 1
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "NEETSlave",
+    "note_models": [],
+    "notes": []
+}
